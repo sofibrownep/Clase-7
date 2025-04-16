@@ -1,37 +1,38 @@
 [
   {
-    "Estrella": "Uy Scuti",
+    "Estrella": "UY Scuti",
     "Tamano": 1700,
-    "Comparado": 3
+    "Comparado": 120
   },
   {
     "Estrella": "WOH G64",
     "Tamano": 1540,
-    "Comparado": 2.8
+    "Comparado": 112
   },
   {
     "Estrella": "RW Cephei",
     "Tamano": 1535,
-    "Comparado": 2.5
+    "Comparado": 100
   },
   {
     "Estrella": "VY Canis Majoris",
     "Tamano": 1420,
-    "Comparado": 1.5
+    "Comparado": 60
   },
   {
     "Estrella": "Mu Cephei",
     "Tamano": 1260,
-    "Comparado": 1
+    "Comparado": 40
   },
   {
     "Estrella": "KY Cygni",
     "Tamano": 1420,
-    "Comparado": 2
+    "Comparado": 80
   },
   {
     "Estrella": "AH Scorpii",
     "Tamano": 1411,
-    "Comparado": 0.4
+    "Comparado": 16
   }
 ]
+
