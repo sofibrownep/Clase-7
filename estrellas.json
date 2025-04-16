@@ -1,37 +1,37 @@
 [
   {
     "Estrella": "Uy Scuti",
-    "Tamaño": 1700,
+    "Tamano": 1700,
     "Comparado": 1
   },
   {
     "Estrella": "WOH G64",
-    "Tamaño": 1540,
+    "Tamano": 1540,
     "Comparado": 0.96
   },
   {
     "Estrella": "RW Cephei",
-    "Tamaño": 1535,
+    "Tamano": 1535,
     "Comparado": 0.92
   },
   {
     "Estrella": "VY Canis Majoris",
-    "Tamaño": 1420,
+    "Tamano": 1420,
     "Comparado": 0.83
   },
   {
     "Estrella": "Mu Cephei",
-    "Tamaño": 1260,
+    "Tamano": 1260,
     "Comparado": 0.74
   },
   {
     "Estrella": "KY Cygni",
-    "Tamaño": 1420,
+    "Tamano": 1420,
     "Comparado": 0.83
   },
   {
     "Estrella": "AH Scorpii",
-    "Tamaño": 1411,
+    "Tamano": 1411,
     "Comparado": 0.8
   }
 ]
